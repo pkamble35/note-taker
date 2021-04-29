@@ -10,4 +10,4 @@ routes(app); // registering the routes from the routes file
 
 app.listen(port);
 
-console.log('Notes Taker is now running on port : ' + port);
+console.log('Notes Taker is now running on port test : ' + port);
