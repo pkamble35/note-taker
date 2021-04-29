@@ -1,10 +1,12 @@
-# Retail Product API
+# Note Taker
 This is note taker application to take notes. This is Express.js API that uses Sequelize to interact with a MySQL database.
+## Deployed App URL
+https://immense-sands-68877.herokuapp.com/
+
 ## Table of Contents 
 ==================================
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Endpoints](#Endpoints)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Test](#Test)
